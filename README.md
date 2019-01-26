@@ -3,6 +3,7 @@
 This is a docker image based on the official [Solr docker image](https://hub.docker.com/_/solr), solr:7.6-alpine  pre-configured with schema files to support the 
 [sunspot gem](https://github.com/sunspot/sunspot).
 
+You have find the [docker image here](https://cloud.docker.com/repository/docker/recipedude/solr-sunspot).
 
 ## Why
 
