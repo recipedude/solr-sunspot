@@ -6,10 +6,10 @@ This is a docker image based on the official [Solr docker image](https://hub.doc
 
 ## Why
 
-Sunspot uses [it's own schema](https://github.com/sunspot/sunspot/blob/master/sunspot_solr/solr/solr/configsets/sunspot/conf/schema.xml) 
+The [sunspot gem](https://github.com/sunspot/sunspot) uses [it's own schema](https://github.com/sunspot/sunspot/blob/master/sunspot_solr/solr/solr/configsets/sunspot/conf/schema.xml) 
 that is incompatible with the default provided in the official Solr docker image.
 
-See [Cannot reindex solr container](https://github.com/sunspot/sunspot/issues/916) for more information on this.
+Refer to [Cannot reindex solr container](https://github.com/sunspot/sunspot/issues/916) for more information on this.
 
 ## Pre-configured core
 
