@@ -28,3 +28,5 @@ and
 ```<solrQueryParser defaultOperator="AND"/>```
 
 Setting default operator in schema (solrQueryParser/@defaultOperator) not supported in Solr 7
+
+
